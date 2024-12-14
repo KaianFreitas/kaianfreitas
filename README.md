@@ -22,6 +22,8 @@ Bem-vindo ao meu perfil no GitHub! Sou entusiasta de programação e tecnologia,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaianfreitas/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaianfreitasm@gmail.com)
+
 ---
 
 ## 📈 Estatísticas do GitHub
