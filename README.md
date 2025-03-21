@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou entusiasta de programação e tecnologia,
 
 ## 🚀 Sobre Mim
 
-- 💻 **Tecnologias**: Trabalho com Python, HTML, CSS, TypeScript, React.JS, SQL, Node.js e outras ferramentas para desenvolvimento de projetos criativos.
+- 💻 **Tecnologias**: Trabalho com Java, Python, HTML, CSS, TypeScript, React.JS, SQL, Node.js e outras ferramentas para desenvolvimento de projetos criativos.
 - 🎯 **Objetivo**: Criar soluções que impactem positivamente as pessoas.
 - 🌱 **Aprendendo**: Estou aprofundando meus conhecimentos em desenvolvimento web e análise de dados.
 
